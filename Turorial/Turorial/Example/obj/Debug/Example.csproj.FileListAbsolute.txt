@@ -1,0 +1,8 @@
+C:\Users\oleg-\Github\SharpDevelop\Turorial\Turorial\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+C:\Users\oleg-\Github\SharpDevelop\Turorial\Turorial\Example\obj\Debug\Example.MainForm.resources
+C:\Users\oleg-\Github\SharpDevelop\Turorial\Turorial\Example\obj\Debug\Example.csproj.GenerateResource.Cache
+C:\Users\oleg-\Github\SharpDevelop\Turorial\Turorial\Example\bin\Debug\Example.exe.config
+C:\Users\oleg-\Github\SharpDevelop\Turorial\Turorial\Example\bin\Debug\Example.exe
+C:\Users\oleg-\Github\SharpDevelop\Turorial\Turorial\Example\bin\Debug\Example.pdb
+C:\Users\oleg-\Github\SharpDevelop\Turorial\Turorial\Example\obj\Debug\Example.exe
+C:\Users\oleg-\Github\SharpDevelop\Turorial\Turorial\Example\obj\Debug\Example.pdb
