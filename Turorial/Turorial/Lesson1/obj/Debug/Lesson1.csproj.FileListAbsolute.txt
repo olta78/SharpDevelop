@@ -1,0 +1,6 @@
+C:\Users\oleg-\Github\SharpDevelop\Turorial\Turorial\Lesson1\bin\Debug\Lesson1.exe.config
+C:\Users\oleg-\Github\SharpDevelop\Turorial\Turorial\Lesson1\bin\Debug\Lesson1.exe
+C:\Users\oleg-\Github\SharpDevelop\Turorial\Turorial\Lesson1\bin\Debug\Lesson1.pdb
+C:\Users\oleg-\Github\SharpDevelop\Turorial\Turorial\Lesson1\obj\Debug\Lesson1.csprojResolveAssemblyReference.cache
+C:\Users\oleg-\Github\SharpDevelop\Turorial\Turorial\Lesson1\obj\Debug\Lesson1.exe
+C:\Users\oleg-\Github\SharpDevelop\Turorial\Turorial\Lesson1\obj\Debug\Lesson1.pdb
